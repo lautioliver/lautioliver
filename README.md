@@ -1,16 +1,21 @@
-## Hi there 👋
+# ¡Hola, soy Lauti!
 
-<!--
-**lautioliver/lautioliver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería Informática 🇦🇷. Me enfoco en construir productos web completos y resolver problemas reales.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Proyectos
+
+* **[UcaNode](https://github.com/lautioliver/UcaNode)**: Plataforma web para la comunidad universitaria *(Next.js, TypeScript, Postgres, Tailwind)*.
+* **[NumérikaAI](https://github.com/lautioliver/numerika-ai)**: Plataforma interactiva para el aprendizaje de métodos numéricos.
+* **[Sistemas Operativos](https://github.com/lautioliver/sistemas-operativos-ucasal)**: Simuladores y algoritmos de SO basados en Tanenbaum.
+
+---
+
+### 🛠️ Tech Stack
+
+`TypeScript` • `Next.js` • `React` • `Tailwind CSS` • `PostgreSQL` • `Node.js` • `Python`
+
+---
+
+📫 **Contacto:** [lautizahir@gmail.com](mailto:lautizahir@gmail.com)
