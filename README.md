@@ -9,7 +9,7 @@ main :: func(): void {
         role: ["Computer Engineering Student @ UCASAL"],
         location: ["Salta, Argentina 🇦🇷"],
         stack: ["TypeScript", "Next.js", "React", "Tailwind CSS", "PostgreSQL", "Python"],
-        currentProjects: ["UcaNode", "NumérikaAI"],
+        currentProjects: ["UcaNode"],
         hobbies: ["Coding", "Chess", "F1"],
         funFact: ["I build local scripts to automate my university workflow."]
     };
