@@ -22,3 +22,10 @@ main :: func(): void {
     println "Hobbies: ${lautaro.hobbies}";
     println "Fun Fact: ${lautaro.funFact}";
 }
+```
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lautioliver/lautioliver/main/dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lautioliver/lautioliver/main/dist/github-contribution-grid-snake.svg">
+  <img alt="Snake animation from GitHub contributions" src="https://raw.githubusercontent.com/lautioliver/lautioliver/main/dist/github-contribution-grid-snake.svg">
+</picture>
