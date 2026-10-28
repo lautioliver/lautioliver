@@ -1,0 +1,17 @@
+{
+  "name": "lautioliver GitHub profile README",
+  "install": "npx --yes generate-snake-animation@3.5.0 > /dev/null 2>&1 || true",
+  "terminals": [
+    {
+      "name": "preview",
+      "command": "python3 -m http.server 3000",
+      "description": "Static preview server for the profile README and generated contribution-snake SVGs in dist/. Open http://localhost:3000/ to browse, or http://localhost:3000/dist/github-contribution-grid-snake-dark.svg to watch the animation."
+    }
+  ],
+  "ports": [
+    {
+      "name": "preview",
+      "port": 3000
+    }
+  ]
+}
